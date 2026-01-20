@@ -7,9 +7,10 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "Roushni.png",
+      "src": "littleme.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ]
 }
+
