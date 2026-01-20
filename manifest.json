@@ -1,0 +1,15 @@
+{
+  "name": "My Daily Schedule",
+  "short_name": "Schedule",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "Roushni.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
